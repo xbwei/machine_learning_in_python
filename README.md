@@ -1,4 +1,4 @@
-# machine_learning_in_python
+# Machine Learning in Python
 Introduce basic machine learning models in Python with Jupyter Notebook.
 
 ## Video tutorials: 
