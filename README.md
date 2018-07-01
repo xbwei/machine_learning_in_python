@@ -1,5 +1,5 @@
 # machine_learning_in_python
-Demo of basic machine learning models in python.
+Introduce basic machine learning models in Python with Jupyter Notebook.
 
 ## Video tutorials: 
 https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
