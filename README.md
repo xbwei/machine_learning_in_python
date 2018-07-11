@@ -9,8 +9,8 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
 2. Introduction to Machine Learning with Python: http://proquestcombo.safaribooksonline.com/9781449369880
 
 ## Table of Content:
-1.1 [The first notebook demo code](https://github.com/xbwei/machine_learning_in_python/blob/master/first_note.ipynb)
-1.2 [video demo](https://www.youtube.com/watch?v=zv70jBjDNI4&index=1&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
+1. [The first notebook demo code](https://github.com/xbwei/machine_learning_in_python/blob/master/first_note.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=zv70jBjDNI4&index=1&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
 
-2.1 [Reading files and data into notebook](https://github.com/xbwei/machine_learning_in_python/blob/master/read_files_and_data.ipynb)
-2.2 [video demo](https://www.youtube.com/watch?v=R53JW3AgBFc&index=2&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
+2. [Reading files and data into notebook](https://github.com/xbwei/machine_learning_in_python/blob/master/read_files_and_data.ipynb)
+    * [video demo](https://www.youtube.com/watch?v=R53JW3AgBFc&index=2&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
