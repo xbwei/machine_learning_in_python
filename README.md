@@ -15,5 +15,5 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
 2. [Reading files and data into notebook](https://github.com/xbwei/machine_learning_in_python/blob/master/read_files_and_data.ipynb)
     * [video demo](https://www.youtube.com/watch?v=R53JW3AgBFc&index=2&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0)
     
-3. [Exploring data in notebook](https://www.youtube.com/watch?v=wm17vdvw9Pg)
+3. [Exploring data in notebook](https://github.com/xbwei/machine_learning_in_python/blob/master/exploring_data_in_notebook.ipynb)
     * [video demo](https://www.youtube.com/watch?v=wm17vdvw9Pg)
