@@ -16,4 +16,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     * [video demo](https://www.youtube.com/watch?v=R53JW3AgBFc&index=2&list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     
 3.[Exploring data in notebook](https://www.youtube.com/watch?v=wm17vdvw9Pg)
-    *[video demo](https://www.youtube.com/watch?v=wm17vdvw9Pg)
+    * [video demo](https://www.youtube.com/watch?v=wm17vdvw9Pg)
