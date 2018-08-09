@@ -1,7 +1,7 @@
 # Machine Learning in Python
 Introduce basic machine learning models in Python with Jupyter Notebook.
 
-## Video tutorials: 
+## Video Tutorials: 
 https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
 
 ## Textbooks:
