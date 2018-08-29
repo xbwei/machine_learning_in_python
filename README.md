@@ -1,4 +1,5 @@
-# Machine Learning in Python  [![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
+# Machine Learning in Python  
+[![Build Status](https://travis-ci.org/xbwei/machine_learning_in_python.svg?branch=master)](https://travis-ci.org/xbwei/machine_learning_in_python)
 Introduce basic machine learning models in Python with Jupyter Notebook.
 
 ## Video Tutorials: 
