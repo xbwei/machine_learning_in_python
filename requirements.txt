@@ -1,2 +1,6 @@
 jupyter notebook
 numpy
+matplotlib 
+pandas
+xlrd
+pymongo
