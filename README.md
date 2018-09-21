@@ -28,5 +28,5 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     * [video demo](https://www.youtube.com/watch?v=_ZL3U2tuDkM)
     
     
-6. [Generalized linear regression](https://github.com/xbwei/machine_learning_in_python/blob/master/logistic_regression_and_support_vector_machine.ipynb)    
+6. [Logistic Regression and Support Vector Machine](https://github.com/xbwei/machine_learning_in_python/blob/master/logistic_regression_and_support_vector_machine.ipynb)    
     * [video demo]()
