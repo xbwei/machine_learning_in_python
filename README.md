@@ -32,4 +32,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     * [video demo](https://www.youtube.com/watch?v=Mh3fNANEqBY)
 
 7. [K-Nearest Neighbors](https://github.com/xbwei/machine_learning_in_python/blob/master/k_nearest_neighbors.ipynb)    
-    * [video demo]()
+    * [video demo](https://www.youtube.com/watch?v=aYVDEbIvb60)
