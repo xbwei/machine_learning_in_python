@@ -30,3 +30,6 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     
 6. [Logistic Regression and Support Vector Machine](https://github.com/xbwei/machine_learning_in_python/blob/master/logistic_regression_and_support_vector_machine.ipynb)    
     * [video demo](https://www.youtube.com/watch?v=Mh3fNANEqBY)
+
+7. [K-Nearest Neighbors](https://github.com/xbwei/machine_learning_in_python/blob/master/k_nearest_neighbors.ipynb)    
+    * [video demo]()
