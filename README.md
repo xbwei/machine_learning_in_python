@@ -35,4 +35,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     * [video demo](https://www.youtube.com/watch?v=nIKwqExPWbo)
 
 8. [Vaive Bayes](https://github.com/xbwei/machine_learning_in_python/blob/master/naive_bayes.ipynb)    
-    * [video demo]()
+    * [video demo](https://www.youtube.com/watch?v=md4wLx5EhXQ)
