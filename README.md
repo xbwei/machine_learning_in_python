@@ -38,4 +38,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     * [video demo](https://www.youtube.com/watch?v=md4wLx5EhXQ)
     
 9. [Decision Trees, Random Forest, and Gradient Boosting Trees](https://github.com/xbwei/machine_learning_in_python/blob/master/decision_trees__random_forest__gradient_boosting_trees.ipynb)
-    * [video demo](https://www.youtube.com/watch?v=PtF3HOjK8Rs)
+    * [video demo](https://www.youtube.com/watch?v=tmFFqF4srh8)
