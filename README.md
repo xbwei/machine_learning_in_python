@@ -39,3 +39,6 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     
 9. [Decision Trees, Random Forest, and Gradient Boosting Trees](https://github.com/xbwei/machine_learning_in_python/blob/master/decision_trees__random_forest__gradient_boosting_trees.ipynb)
     * [video demo](https://www.youtube.com/watch?v=tmFFqF4srh8)
+    
+10. [Neural Networks](https://github.com/xbwei/machine_learning_in_python/blob/master/neural_networks.ipynb)
+    * [video demo]()
