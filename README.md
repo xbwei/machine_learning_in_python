@@ -42,3 +42,6 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     
 10. [Neural Networks](https://github.com/xbwei/machine_learning_in_python/blob/master/neural_networks.ipynb)
     * [video demo](https://www.youtube.com/watch?v=qXhRbO7PGew)
+    
+11. [K-Means Clustering](https://github.com/xbwei/machine_learning_in_python/blob/master/k_means.ipynb)
+    * [video demo]()
