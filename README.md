@@ -44,3 +44,5 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
     
 11. [K-Means Clustering](https://github.com/xbwei/machine_learning_in_python/blob/master/k_means.ipynb)
     * [video demo](https://www.youtube.com/watch?v=aKFp5OzdQ0M)
+    
+12. [A Simple Example of Analyzing COVID-19 Data in Python](https://github.com/xbwei/machine_learning_in_python/blob/master/COVID_19_Data_Analysis.ipynb)
