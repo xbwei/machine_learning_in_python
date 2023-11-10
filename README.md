@@ -48,3 +48,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
 12. [A Simple Example of Analyzing COVID-19 Data in Python](https://github.com/xbwei/machine_learning_in_python/blob/master/COVID_19_Data_Analysis.ipynb)
 
 13. [Analyze Twitter Data with OpenAI V1](https://github.com/xbwei/machine_learning_in_python/blob/master/Analyze_Tweets_with_OpenAI_v1.ipynb)
+    * [video demo](https://youtu.be/5T9-NIIImTo)
