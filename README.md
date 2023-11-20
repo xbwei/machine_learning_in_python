@@ -49,3 +49,4 @@ https://www.youtube.com/playlist?list=PLHutrxqbP1ByXVJyAJe5zrnNkZA11xJI0
 
 13. [Analyze Twitter Data with OpenAI V1](https://github.com/xbwei/machine_learning_in_python/blob/master/Analyze_Tweets_with_OpenAI_v1.ipynb)
     * [video demo](https://youtu.be/5T9-NIIImTo)
+14. [Analyze Twitter Data with OpenAI V2](https://github.com/xbwei/machine_learning_in_python/blob/master/Analyze_Tweets_with_OpenAI_v2.ipynb)
